@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="2.1" bbox="-48.0925 -4.2774 -2.8787 7.4941 8.5344 42.4986" targetId="7a9232620dfb4263a6c9a7bb95cb9fa4" name="AUS-EB2" pathAuthoring="7a9232620dfb4263a6c9a7bb95cb9fa4_authoring.glb" pathOcclusion="7a9232620dfb4263a6c9a7bb95cb9fa4_occlusion.3dt" pathNavMesh="7a9232620dfb4263a6c9a7bb95cb9fa4_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
