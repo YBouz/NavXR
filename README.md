@@ -1,5 +1,10 @@
 # NavXR
 
+
+This project was built using:
+- Unity 2019.4.18f1
+- Vuforia Engine
+
 NavXR was developed as Youssef Bouz's Senior Design Project for the Bachelor of Science in Computer Science at the American University of Sharjah. The intention is to display a demo of the benefit of utilizing emerging technologies to build an innovative solution for this specific use case and deliver a seamless navigation experience. This provides the ability to ease a student's journey while navigating their campus and engaging them in a gamified experience. Beyond that, this solution can be utilized in a variety of environments such as a mueseum or mall to create a dynamic and engaging immersive experience as your limitless imagination can go, or even in an airport or hospital to deliver a more efficient navigation experience.
 
 ## Augmented Reality Navigation
