@@ -7,6 +7,8 @@ NavAR is a seamless solution for indoor and outdoor navigation using some of the
 
 ## Virtual Tour
 [View here ->](https://navxr.tech/)
+
+
 An additional component that delivers a virtual tour of the captured environment accessible through any modern web browser. You can enjoy a complete 360 degree high-quality tour of all three floors of the AUS-Engineering Building (EB2).
 
 ### How to Navigate
